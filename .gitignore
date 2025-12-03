@@ -9,7 +9,6 @@ bun.lock
 
 # Ignore IDE-specific files and directories
 .idea/
-.vscode/
 *.sublime-workspace
 
 # Ignore RVM-based gemset selection
@@ -33,3 +32,6 @@ node_modules
 # https://vitejs.dev/guide/env-and-mode.html#env-files
 *.local
 
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
